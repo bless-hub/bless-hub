@@ -36,5 +36,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="GitHub" width="25px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<hr/>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bless-hub)](https://github.com/anuraghazra/github-readme-stats)
 
