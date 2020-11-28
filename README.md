@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 ###  Analytics
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bless-hub&show_icons=true&theme=radical&card_width-300)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bless-hub&show_icons=true&theme=radical&card_width=300)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bless-hub&layout=compact&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bless-hub&layout=compact&show_icons=true&theme=radical&card_width=300)
 
 
 
