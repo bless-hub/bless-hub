@@ -3,7 +3,7 @@
 
 Brief information:
 
-- Front-end developer (react.js)
+- Junior Front-end developer (react.js)
 - Dnipro, Ukraine
 - 093 411 18 18
 - vladbondarenko1@gmail.com
